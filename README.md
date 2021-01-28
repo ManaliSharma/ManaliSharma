@@ -1,4 +1,5 @@
-### Hi there , I'm **Manali Sharma** 👋
+### Hi there 👋
+### I'm **Manali Sharma**
 
 
 <a href="https://www.linkedin.com/in/manalisharmaneu/">
