@@ -38,17 +38,21 @@ Since I am a huge technical enthusiast , I research a lot and myy recent interes
 2) 1+ years of experience in Data Warehousing and Business Intelligence - Worked with entire data pipeline, right from data extraction, data integration and bringing out insights from visualizations and statistical inferences. Along with development of complex code bases for maintaining quality of data that is utilized for different purposes.
 3) 2 years of experience in Data Analytics - Worked on Insight driven Analysis, Data Visualization, Ad hoc Reporting, Forecasting, Business Impact analysis.
 
-**Languages and Tools:**  
-
+**Languages and Tools:** 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://cdn.educba.com/academy/wp-content/uploads/2019/02/T-SQL-Commands.jpg"></code>
+<code><img height="20" src="https://www.quest.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-39/Slide2.JPG_2D00_1100x500x2.jpg?_=637219525519183603"></code>
+<code><img height="20" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png"></code>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png"></code>
+
+
 <code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
 <code><img height="20" src=""></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
