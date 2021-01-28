@@ -2,7 +2,17 @@
 
 <!--
 **ManaliSharma/ManaliSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub Activity in Readme
 
+Updates `README.md` with the recent GitHub activity of a user.
+
+<img width="735" alt="profile-repo" src="https://user-images.githubusercontent.com/25279263/87703301-3aa4a500-c7b8-11ea-8eb6-245121997a7b.png">
+
+---
+
+## Instructions
+
+- Add the comment `<!--START_SECTION:activity-->` (entry point) within `README.md`. You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md).
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
