@@ -8,7 +8,7 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <a href="https://public.tableau.com/profile/manali.sharma#!/">
-  <img align="left" alt="tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="tableau" width="22px" src="https://www.biztory.com/hubfs/4_tableau-512.png" />
 </a>
 <a href="https://www.instagram.com/manalisharma_/?hl=en">
   <img align="left" alt="Manali's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
