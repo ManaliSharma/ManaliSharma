@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Manali Sharma**, a **data enthusiast** , and a **recent engineering graduate from Northeastern University** 🚀 from India, currently, I'm a Community Team Member 👩🏻‍💻 [@ManaliSharma](https://github.com/ManaliSharma), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/sharmamanali), and a tableau power user [@tableau](https://public.tableau.com/profile/manali.sharma#!/) . I am also a **Software Developer** and a **Data Engineer** and **Data Scincetist** in making .Since I am a huge technical enthusiast , I research a lot and myy recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
