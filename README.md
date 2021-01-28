@@ -17,20 +17,26 @@
 <br />
 <br />
 
-Hi there, I'm **Manali Sharma**, a **data enthusiast** , and a **recent engineering graduate from Northeastern University** 🚀 from India, currently, I'm a Community Team Member 👩🏻‍💻 [@ManaliSharma](https://github.com/ManaliSharma), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/sharmamanali), and a tableau power user [@tableau](https://public.tableau.com/profile/manali.sharma#!/) . I am also a **Software Developer** and a **Data Engineer** and **Data Scincetist** in making .Since I am a huge technical enthusiast , I research a lot and myy recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis
+Hi there, I'm **Manali Sharma**, a **data enthusiast** , and a **recent engineering graduate from Northeastern University** 🚀 from India, currently, I'm a Community Team Member 👩🏻‍💻 [@ManaliSharma](https://github.com/ManaliSharma), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/sharmamanali), and a tableau power user [@tableau](https://public.tableau.com/profile/manali.sharma#!/) . I am also a **Software Developer** and a **Data Engineer** and **Data Scincetist** in making. 
+
+Since I am a huge technical enthusiast , I research a lot and myy recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 👩🏻‍💻 I’m currently looking for full time opportunities in Machine Learning, Business Intelligence, Data Analytics, Big Data, Data Science;
+- 🌱 I’m currently learning Deep Reinforcement Learning and I am working on making a dynamic tableau dashboard for covid impact on world (economical) ; 
+- 🤔 My interests are with Data Engineering, Computer vision, Reinforcement Learning, Natural Language Processing/Understanding,etc..;
+- 💼 I’m Master's in Information System from Northeastern University;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📫 Please email via manali2251@gmail.com to reach me.
+- ⚡ Fun fact: I am an avid learner. I like reading books, sketching, cooking and coding (ofcourse). I am also a huge animal lover and owns about 11 dogs.
 
+**Experience**
+1) 3+ years of experience in Software Development (Python) - Worked on building optimized solutions
+2) 1+ years of experience in Data Warehousing and Business Intelligence - Worked with entire data pipeline, right from data extraction, data integration and bringing out insights from visualizations and statistical inferences. Along with development of complex code bases for maintaining quality of data that is utilized for different purposes.
+3) 2 years of experience in Data Analytics - Worked on Insight driven Analysis, Data Visualization, Ad hoc Reporting, Forecasting, Business Impact analysis.
 
 **Languages and Tools:**  
 
@@ -54,15 +60,3 @@ Hi there, I'm **Manali Sharma**, a **data enthusiast** , and a **recent engineer
 
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
