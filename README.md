@@ -61,7 +61,7 @@ Since I am a huge technical enthusiast , I research a lot and myy recent interes
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 
 
-![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![Manali's github stats](https://github-readme-stats.vercel.app/api?username=ManaliSharma&show_icons=true&hide_border=true)
 
 
 
