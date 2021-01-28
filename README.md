@@ -21,7 +21,7 @@ I am a **data enthusiast**, **developer**, a **recent engineering graduate from 
 
 Since I am a huge technical enthusiast , I research a lot and myy recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
+  <img align="right" height="70" width="70" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
 
 **Talking about Personal Stuffs:**
 
