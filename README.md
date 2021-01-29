@@ -18,9 +18,9 @@
 <br />
 <br />
 
-I am a **data enthusiast**, **developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scincetist** in making. Currently, I'm a Community Team Member 👩🏻‍💻 [@ManaliSharma](https://github.com/ManaliSharma), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/sharmamanali), and a tableau power user [@tableau](https://public.tableau.com/profile/manali.sharma#!/) . 
+I am a **data enthusiast**, **developer**, a **recent engineering graduate from Northeastern University** 🚀 from US, and a **Data Engineer** and **Data Scientist** in making. Currently, I'm a Community Team Member 👩🏻‍💻 [@ManaliSharma](https://github.com/ManaliSharma), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/sharmamanali), and a tableau power user [@tableau](https://public.tableau.com/profile/manali.sharma#!/) . 
 
-Since I am a huge technical enthusiast , I research a lot and myy recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
+Since I am a huge technical enthusiast , I research a lot and my recent interests include Machine Learning, Business Intelligence, Data Warehousing, Data Visualization and Data Analysis.
 
   <img align="right" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
 
