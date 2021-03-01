@@ -15,6 +15,7 @@
   <img align="left" alt="Manali's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
 <br />
 <br />
 
@@ -25,8 +26,8 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
   <img align="right" height="300" width="400" alt="GIF" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
 
 **Talking about Personal Stuffs:**
-
 - 👩🏻‍💻 I’m currently looking for full time opportunities in Machine Learning, Business Intelligence, Data Analytics, Big Data, Data Science;
+- I am Tableau Desktop Specialist Certified and Microsoft Azure Fundamentals Certified
 - 🌱 I’m currently learning Deep Reinforcement Learning and working on making a dynamic tableau dashboard for covid impact on world (economical); 
 - 🤔 My interests are with Data Engineering, Computer vision, Reinforcement Learning, Natural Language Processing/Understanding,etc..;
 - 💼 I’m Master's in Information System from Northeastern University;
