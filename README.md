@@ -61,6 +61,7 @@ Since I am a huge technical enthusiast , I research a lot and my recent interest
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAmazon_Web_Services_Logo.svg&psig=AOvVaw0-zUcKex03XhXKicbA-t1s&ust=1628113720496000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjj9rHqlfICFQAAAAAdAAAAABAD"></code>
 
 
 ![Manali's github stats](https://github-readme-stats.vercel.app/api?username=ManaliSharma&show_icons=true&hide_border=true)
